@@ -1,0 +1,6 @@
+llama-cpp-python
+num2words
+flask
+flask-cors
+
+
